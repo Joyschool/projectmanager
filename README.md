@@ -8,9 +8,9 @@
 ### 1. 파이썬 PC 설치
 www.python.org 
 
- - 설치할 파이썬 버전: 3.9.10 
+ - 설치할 파이썬 버전: **3.9.10** 
  - 설치시 주의사항: 
-   Install 첫 페이지에서 [Add Python 3.9 to PATH] 옵션을 반드시 체크표시 해준다.
+   Install 첫 페이지에서 **[Add Python 3.9 to PATH] 옵션을 반드시 체크표시** 해준다.
   
  
 ### 2. # Jupyter Notbook(주피터 노트북)설치
